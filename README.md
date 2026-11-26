@@ -19,3 +19,6 @@ pages and exports the collected data into an Excel file.
 - Logs scraping errors
 - Generates a scraping summary
 - Exports results to Excel
+
+## Screenshots
+See the screenshots folder in this repository for examples of the scraper output and execution.
